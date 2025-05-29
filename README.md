@@ -5,11 +5,11 @@ Este é um projeto de um sistema de gestão de estacionamento desenvolvido em Ja
 ## Funcionalidades
 
 - Cadastro de pets
-- Tipo de atendimento
-- 
+- Serviço personalizado e agendamento 
+- Saida e faturamento
 - Cálculo de tarifas com base no plano
+- Relatórios Avançados
 - Persistência de dados usando CSV
-- Renda mensal
 
 ## Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
